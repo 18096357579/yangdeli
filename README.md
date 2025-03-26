@@ -138,7 +138,7 @@ ctx1.fillStyle = '#000';
 
 
 //中间的字改这里
-const text = '鸡你太美';   
+const text = '小罗，我爱你';   
      
 let textWidth = 99999999;
 
